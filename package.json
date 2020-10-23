@@ -1,0 +1,27 @@
+{
+  "name": "broswer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios --device",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@ant-design/icons-react-native": "2.2.1",
+    "@react-native-community/async-storage": "^1.12.0",
+    "react": "16.13.1",
+    "react-native": "0.63.2",
+    "react-native-share": "^4.0.2",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-view-shot": "^3.1.2",
+    "react-native-webview": "^10.9.0",
+    "url": "^0.11.0",
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
